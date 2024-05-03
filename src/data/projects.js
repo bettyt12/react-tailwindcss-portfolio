@@ -9,19 +9,19 @@ import UIImage2 from '../images/ui-project-2.jpg';
 export const projectsData = [
 	{
 		id: 1,
-		title: 'Google Health Platform',
-		category: 'Web Application',
+		title: 'Toplink Technology',
+		category: 'Front End Developer',
 		img: WebImage2,
 		ProjectHeader: {
-			title: 'Project Management UI - From Context',
+			title: 'Water Utility Management Information System',
 			publishDate: 'Jul 26, 2021',
 			tags: 'UI / Frontend',
 		},
 	},
 	{
 		id: 2,
-		title: 'Phoenix Digital Agency',
-		category: 'Mobile Application',
+		title: 'Fetatech',
+		category: 'Front End Developer',
 		img: MobileImage2,
 	},
 	{
